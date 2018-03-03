@@ -1,0 +1,9 @@
+.home-btn, .about-btn {
+  display: inline-block;
+  border: solid black 1px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
